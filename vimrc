@@ -1,0 +1,1 @@
+/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/Resources/vim/vimrc
